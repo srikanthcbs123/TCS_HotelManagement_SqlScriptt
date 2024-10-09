@@ -71,5 +71,7 @@
     <Build Include="StoredProcedures\Usp_AddEmployee.sql" />
     <Build Include="Functions\TableValuedFunctions\fn_ERRORlOG.sql" />
     <Build Include="Functions\SclarValuedFunctions\fcube123.sql" />
+    <Build Include="Tables\LoginRegister_1.sql" />
+    <Build Include="StoredProcedures\Sp_LoginForm.sql" />
   </ItemGroup>
 </Project>
